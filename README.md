@@ -1,6 +1,6 @@
 # MBrickPlayer
  MBrickPlayer Source Code (Becuase so many people asked for it and because I'm nice. :p)
- Binaries can be found at MixaMega's site (http://mixa.ddns.net/mbrickplayer/).
+ Binaries can be found at MixaMega's site (http://mixa.ddns.net/mbrickplayer/) OR from the release section (https://github.com/Malte0621/MBrickPlayer/releases).
 
 ## Required Deps
  * ImaginationOverflow - Universal Deep Linking (https://assetstore.unity.com/packages/tools/integration/universal-deep-linking-seamless-deep-link-and-web-link-associati-125172)
